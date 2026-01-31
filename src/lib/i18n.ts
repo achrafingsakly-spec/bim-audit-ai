@@ -95,6 +95,13 @@ const resources = {
         download: 'Télécharger le rapport',
         synthesis: 'Synthèse',
         recommendations: 'Recommandations',
+        preview: 'Aperçu PDF',
+        previewDescription: 'Prévisualisez et personnalisez votre rapport avant téléchargement',
+        sections: 'Sections du rapport',
+        selectSections: 'Sélectionnez les sections à inclure',
+        page: 'Page',
+        generatingPreview: 'Génération de l\'aperçu...',
+        errorGenerating: 'Erreur lors de la génération',
       },
       // Project
       project: {
@@ -199,6 +206,13 @@ const resources = {
         download: 'Download report',
         synthesis: 'Synthesis',
         recommendations: 'Recommendations',
+        preview: 'PDF Preview',
+        previewDescription: 'Preview and customize your report before downloading',
+        sections: 'Report Sections',
+        selectSections: 'Select sections to include',
+        page: 'Page',
+        generatingPreview: 'Generating preview...',
+        errorGenerating: 'Error generating PDF',
       },
       // Project
       project: {
